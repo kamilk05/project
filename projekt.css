@@ -1,0 +1,14 @@
+table
+    {
+        text-align: center;
+		width:"60%";
+		height:"40%";
+		background-color: #eeeeee; border-style:solid; border-width:2px; border-color:brown ;
+    }
+.blok1{background-color: #FF6633; height: 800px; width: 40%; text-align: left; float: left; font-family: Arial; }
+.blok2{background-color: yellow;height: 200; width: 700px; text-align: left; float: left; font-family: Arial;margin: 20px;}
+.blok3{background-color: #FF6633; height: 90%; width: 100%; text-align: left; float: left; font-family: Arial;}
+.blok4{background-color: #FF6633;height: 99%; width: 99%; text-align: left; float: left; font-family: Arial;margin: 0px;}
+#stopka{background-color: #993300; text-align: right;  font-family: Arial; clear: both; color: white; font-size: 150%;}
+header{background-color: #993300; text-align: center;  font-family: Arial; clear: both; color: white; font-size: 150%;}
+h1 {text-align: center;}
