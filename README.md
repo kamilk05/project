@@ -1,0 +1,32 @@
+# kkiecana.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>index.html</title>
+</head>
+
+    <body>
+<link rel="stylesheet" type="text/css" href="projekt.css" />
+        <form action="" method="post">
+		<main class="blok1"> 
+		<header><h1>Planeta ziemia</h2></header>
+		<div class="blok2">
+		<h2>Menu</h2>
+		<ul>
+		<br><li><a href="temat.html">temat</a></li>
+		<br><li> <a href="ankieta.html">ankieta</a></li>
+		<br><li><a href="tabelka.html">tabela</a></li>
+		<br><li><a href="zdjecia.html">zdjecia</a></li>
+		</ul>
+		<br><a href="https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze">WIKIPEDIA</a>
+		</div>
+		<h1>Środowisko i zdrowie</h1>
+<br>Czyste środowisko ma istotne znaczenie dla zdrowia i dobrostanu ludzi. Jednocześnie lokalne środowisko może być też źródłem czynników stresogennych – takich jak zanieczyszczenie powietrza, hałas, niebezpieczne chemikalia- , które mają negatywny wpływ na zdrowie. Na zdrowie mieszkańców UE negatywny wpływ mają również zmiany klimatu, objawiająca się falami upałów, powodziami i zmianami w rozkładzie chorób przenoszonych przez wektory. W szerszym ujęciu zmiana klimatu, utrata bioróżnorodności i degradacja gleby mogą również wpływać na dobrostan człowieka, stanowiąc zagrożenie dla usług ekosystemowych, takich jak dostęp do słodkiej wody i produkcji żywności.		
+		
+		<div id="stopka">
+		Autor strony: Kamil Kiecana 17.04.2021
+		</div>
+		</body>
+		
+		
